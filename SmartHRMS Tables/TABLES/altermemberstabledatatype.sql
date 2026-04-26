@@ -1,0 +1,1 @@
+ALTER TABLE members ALTER COLUMN fingerprint_template VARCHAR(MAX);
